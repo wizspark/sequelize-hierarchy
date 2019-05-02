@@ -1,13 +1,4 @@
-# sequelize-hierarchy.js
-
-# Nested hierarchies for Sequelize
-
-[![NPM version](https://img.shields.io/npm/v/sequelize-hierarchy.svg)](https://www.npmjs.com/package/sequelize-hierarchy)
-[![Build Status](https://img.shields.io/travis/overlookmotel/sequelize-hierarchy/master.svg)](http://travis-ci.org/overlookmotel/sequelize-hierarchy)
-[![Dependency Status](https://img.shields.io/david/overlookmotel/sequelize-hierarchy.svg)](https://david-dm.org/overlookmotel/sequelize-hierarchy)
-[![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/sequelize-hierarchy.svg)](https://david-dm.org/overlookmotel/sequelize-hierarchy)
-[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/sequelize-hierarchy.svg)](https://greenkeeper.io/)
-[![Coverage Status](https://img.shields.io/coveralls/overlookmotel/sequelize-hierarchy/master.svg)](https://coveralls.io/r/overlookmotel/sequelize-hierarchy)
+# @wize/sequelize-hierarchy
 
 ## What's it for?
 
@@ -282,11 +273,11 @@ Requires a database called 'sequelize_test' and a db user 'sequelize_test' with 
 
 ## Changelog
 
-See [changelog.md](https://github.com/overlookmotel/sequelize-hierarchy/blob/master/changelog.md)
+See [changelog.md](https://github.com/wizspark/sequelize-hierarchy/blob/master/changelog.md)
 
 ## Issues
 
-If you discover a bug, please raise an issue on Github. https://github.com/overlookmotel/sequelize-hierarchy/issues
+If you discover a bug, please raise an issue on Github. https://github.com/wizspark/sequelize-hierarchy/issues
 
 ## Contribution
 

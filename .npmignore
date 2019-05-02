@@ -3,6 +3,7 @@ coverage
 .editorconfig
 .gitattributes
 .gitignore
+.jshintrc
 .eslintignore
 .eslintrc.js
 .npmignore
