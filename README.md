@@ -1,4 +1,12 @@
-# @wize/sequelize-hierarchy
+# sequelize-hierarchy.js
+
+# Nested hierarchies for Sequelize
+
+[![NPM version](https://img.shields.io/npm/v/sequelize-hierarchy.svg)](https://www.npmjs.com/package/sequelize-hierarchy)
+[![Build Status](https://img.shields.io/travis/overlookmotel/sequelize-hierarchy/master.svg)](http://travis-ci.org/overlookmotel/sequelize-hierarchy)
+[![Dependency Status](https://img.shields.io/david/overlookmotel/sequelize-hierarchy.svg)](https://david-dm.org/overlookmotel/sequelize-hierarchy)
+[![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/sequelize-hierarchy.svg)](https://david-dm.org/overlookmotel/sequelize-hierarchy)
+[![Coverage Status](https://img.shields.io/coveralls/overlookmotel/sequelize-hierarchy/master.svg)](https://coveralls.io/r/overlookmotel/sequelize-hierarchy)
 
 ## What's it for?
 
@@ -31,7 +39,7 @@ Version v1.0.0 onwards supports only Node v4 or higher. Currently, all tests pas
 To load module:
 
 ```js
-var Sequelize = require('@wize/sequelize-hierarchy')();
+var Sequelize = require('sequelize-hierarchy')();
 // NB Sequelize must also be present in `node_modules`
 ```
 
@@ -39,7 +47,7 @@ or, a more verbose form useful if chaining multiple Sequelize plugins:
 
 ```js
 var Sequelize = require('sequelize');
-require('@wize/sequelize-hierarchy')(Sequelize);
+require('sequelize-hierarchy')(Sequelize);
 ```
 
 ### Initializing hierarchy
@@ -252,11 +260,11 @@ Requires a database called 'sequelize_test' and a db user 'sequelize_test' with 
 
 ## Changelog
 
-See [changelog.md](https://github.com/wizspark/sequelize-hierarchy/blob/master/changelog.md)
+See [changelog.md](https://github.com/overlookmotel/sequelize-hierarchy/blob/master/changelog.md)
 
 ## Issues
 
-If you discover a bug, please raise an issue on Github. https://github.com/wizspark/sequelize-hierarchy/issues
+If you discover a bug, please raise an issue on Github. https://github.com/overlookmotel/sequelize-hierarchy/issues
 
 ## Contribution
 

@@ -1,17 +1,17 @@
 {
-  "name": "@wize/sequelize-hierarchy",
-  "version": "1.0.0",
+  "name": "sequelize-hierarchy",
+  "version": "1.3.1",
   "description": "Nested hierarchies for Sequelize",
   "main": "./lib/",
   "author": {
-    "name": "Wizni Inc."
+    "name": "Overlook Motel"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wizspark/sequelize-hierarchy.git"
+    "url": "https://github.com/overlookmotel/sequelize-hierarchy.git"
   },
   "bugs": {
-    "url": "https://github.com/wizspark/sequelize-hierarchy/issues"
+    "url": "https://github.com/overlookmotel/sequelize-hierarchy/issues"
   },
   "dependencies": {
     "lodash": "^4.17.4",
